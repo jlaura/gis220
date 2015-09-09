@@ -58,18 +58,18 @@ To request academic accommodations due to a disability, please contact the ASU D
 | 1    | 8/20 - 8/27   | Introduction - Variables (Algebra Basics), Functions and Equations |       1      |
 | 2    | 8/27 - 9/3    | Limits                                                            | 2 (Q1-3 & 5) |
 | 3    | 9/3 - 9/10    | Derivatives                                                       | 2(Q4 & 5)    |
-| 3    | 9/10 - 9/17   | Integrals                                                         |       3      |
-| 4    | 9/17 - 9/24   | Matrices I                                                        |       4      |
-| 5    | 9/24 - 10/1   | Matrices II                                                       |       5      |
-| 6    | 10/1 - 10/8   | Matrices III                                                      |       6      |
-| 7    | 10/8 -10/15   | Mid-Term                                                          |       -      |
-| 8    | 10/15 - 10/22 | Model Building Fundamentals (Optimization)                        |       7      |
-| 9    | 10/22 - 10/29 | Simplex Method I                                                  |       8      |
-| 10   | 10/29 - 11/5  | Simplex Review / Big M                                            |       9      |
-| 11   | 11/5 - 11/12  | Integer Programming I                                             |      10      |
-| 12   | 11/5 - 11/12  | Solvers                                                           |       -      |
-| 12   | 11/12 - 11/19 | Integer Programming II                                            |      11      |
-| 13   | 11/19 - 11/26 | Integer Programming III                                           |      12      |
-| 14   | 11/16 - 12/3  | Heuristics                                                        |      13      |
-| 15   | 12/3 - 12/10  | Final Exam                                                        |       -      |
+| 4    | 9/10 - 9/17   | Integrals                                                         |       3      |
+| 5    | 9/17 - 9/24   | Matrices I                                                        |       4      |
+| 6    | 9/24 - 10/1   | Matrices II                                                       |       5      |
+| 7    | 10/1 - 10/8   | Matrices III                                                      |       6      |
+| 8    | 10/8 -10/15   | Mid-Term                                                          |       -      |
+| 9    | 10/15 - 10/22 | Model Building Fundamentals (Optimization)                        |       7      |
+| 10   | 10/22 - 10/29 | Simplex Method I                                                  |       8      |
+| 11   | 10/29 - 11/5  | Simplex Review / Big M                                            |       9      |
+| 12   | 11/5 - 11/12  | Integer Programming I                                             |      10      |
+| 13   | 11/5 - 11/12  | Solvers                                                           |       -      |
+| 14   | 11/12 - 11/19 | Integer Programming II                                            |      11      |
+| 15   | 11/19 - 11/26 | Integer Programming III                                           |      12      |
+| 16   | 11/16 - 12/3  | Heuristics                                                        |      13      |
+| 17   | 12/3 - 12/10  | Final Exam                                                        |       -      |
 
